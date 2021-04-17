@@ -1,5 +1,13 @@
 ![](http://pinaxproject.com/pinax-design/patches/pinax-blog.svg)
 
+# Fork Info
+
+Since the pinax-blog repo is not frequently updated, I forked it and integratet an proposed PR because of personal needs.
+
+This repo can be installed with `pip install git+https://github.com/sebastian-muthwill/pinax-blog.git`
+
+----
+
 # Pinax Blog
 
 [![](https://img.shields.io/pypi/v/pinax-blog.svg)](https://pypi.python.org/pypi/pinax-blog/)
